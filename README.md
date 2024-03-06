@@ -1,6 +1,6 @@
 # Stopwatch Web Application
 
-[Stopwatch Site Visit](https://stopwatch01306.netlify.app/)
+[Visit-Site](https://stopwatch01306.netlify.app/)
 
 This simple web application, named **Stopwatch Site**, provides a stopwatch functionality with a user-friendly interface. Users can start, stop, and reset the stopwatch to track elapsed time.
 
